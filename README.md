@@ -1,0 +1,5 @@
+# scrapper
+
+AjansPress
+InterPress
+MedyaTakip
